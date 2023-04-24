@@ -31,7 +31,7 @@ public class MainService {
 		
 		Hashtable<String, City> myHashTable = new Hashtable<>();
 		
-		myHashTable.put("Ventspils", null);
+		//myHashTable.put("Ventspils", null);
 		
 	}
 
